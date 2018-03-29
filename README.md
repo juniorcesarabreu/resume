@@ -32,9 +32,9 @@
 
 ## Educação
 
-**Ciência da Computação em Faculdade Governador Ozanam Coelho - FAGOC **- Fevereiro 2013 - Dezembro 2016 
+**Ciência da Computação em Faculdade Governador Ozanam Coelho - FAGOC** - Fevereiro 2013 - Dezembro 2016 
 
-**Aprendizagem Industrial em Instalação Elétrica Industrial  - SENAI **- Janeiro 2011 - Dezembro 2011 
+**Aprendizagem Industrial em Instalação Elétrica Industrial  - SENAI** - Janeiro 2011 - Dezembro 2011 
 
 ## Cursos
 
