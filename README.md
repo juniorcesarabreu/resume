@@ -22,11 +22,11 @@
 
 ## Experiências
 
-**Freelance Android Developer** - ADM - Assessoria ao Desenvolvimento Municipal - Setembro 2017 - Presente
+**Freelance Android Developer** - ADM - Assessoria ao Desenvolvimento Municipal, Setembro 2017 - Presente
 
 >Desenvolvendo aplicações na plataforma Android para cadastramento imobiliário
 
-**Estágio em Desenvolvimento iOS** - FAGOC - Faculdade Governador Ozanam Coelho - Agosto 2015 - Junho 2016
+**Estágio em Desenvolvimento iOS** - FAGOC - Faculdade Governador Ozanam Coelho, Agosto 2015 - Junho 2016
 
 >Desenvolvimento de aplicação para a plataforma iOS.
 
