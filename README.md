@@ -24,7 +24,7 @@
 
 **Freelance Android Developer** - ADM - Assessoria ao Desenvolvimento Municipal, Setembro 2017 - Presente
 
->Desenvolvendo aplicações na plataforma Android para cadastramento imobiliário
+>Desenvolvimento de aplicações na plataforma Android para cadastramento imobiliário
 
 **Estágio em Desenvolvimento iOS** - FAGOC - Faculdade Governador Ozanam Coelho, Agosto 2015 - Junho 2016
 
@@ -42,6 +42,8 @@
 * Curso de extensão de Desenvolvimento de projetos em PHP - Curso Introdutório – FAGOC, 2016.
 * Curso SQL Completo – SoftBlue, 2016.
 * Curso Montagem e Manutenção de Computadores - Fagoc, 2016
+* Curso de Edição de Imagens com GIMP - Escola Estadual Álvaro Giesta, 2010
+* Curso Básico de Informática em Linux - Escola Estadual Prof. Ormindo de Souza Lima, 2009
 
 ## Extras
 
