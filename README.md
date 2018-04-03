@@ -16,6 +16,7 @@
 * iOS - Swift
 * Git
 * SQL - SQLite - MySQL
+* C/C++
 * HTML
 * CSS
 * POO (Programação Orientada a Objetos)
