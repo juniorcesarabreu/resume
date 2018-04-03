@@ -32,9 +32,9 @@
 
 ## Educação
 
-**Ciência da Computação em Faculdade Governador Ozanam Coelho - FAGOC** - Fevereiro 2013 - Dezembro 2016 
+**Ciência da Computação em Faculdade Governador Ozanam Coelho - FAGOC**, Fevereiro 2013 - Dezembro 2016 
 
-**Aprendizagem Industrial em Instalação Elétrica Industrial  - SENAI** - Janeiro 2011 - Dezembro 2011 
+**Aprendizagem Industrial em Instalação Elétrica Industrial  - SENAI Visconde do Rio Branco CFP Silvio Benatti**, Janeiro 2011 - Dezembro 2011 
 
 ## Cursos
 
@@ -45,8 +45,8 @@
 
 ## Extras
 
-* Palestra sobre Desenvolvimento iOS
+* Palestra sobre Desenvolvimento iOS na VIII Semana acadêmica Unificada FAGOC, 2016
 * Inglês – Básico (autodidata).
 * Participação em Maratonas de Programação.
-* Premiado com o título de Aluno Destaque.
-
+* Premiado com o título de Aluno Destaque na graduação.
+* Conhecimentos do Pacote Office (Word, Excel, PowerPoint)
