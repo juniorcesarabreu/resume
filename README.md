@@ -1,12 +1,12 @@
 # Júnior César Abreu
 
-**Localização:** <a href="https://goo.gl/maps/cNHp5a6p3e12" target="_blank">São Geraldo (Zona da Mata), MG - Brasil</a>
+**Localização:** [São Geraldo (Zona da Mata), MG - Brasil](https://goo.gl/maps/cNHp5a6p3e12")
 
 **Telefone:** [+55 (32) 99988 2638](tel:5532999882638)
 
 **E-mail:** <juniorcesarabreu@live.com>
 
-**Github:** <a href="https://github.com/juniorcesarabreu" target="_blank">juniorcesarabreu</a>
+**Github:** [juniorcesarabreu](https://github.com/juniorcesarabreu)
 
 
 ## Sobre mim
