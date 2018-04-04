@@ -6,6 +6,8 @@
 
 **E-mail:** <juniorcesarabreu@live.com>
 
+**Linkedin** [juniorcesarabreu](https://www.linkedin.com/in/juniorcesarabreu/)
+
 **Github:** [juniorcesarabreu](https://github.com/juniorcesarabreu)
 
 
