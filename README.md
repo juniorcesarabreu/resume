@@ -1,6 +1,6 @@
 # Júnior César Abreu
 
-**Localização:** [São Geraldo (Zona da Mata), MG - Brasil](https://goo.gl/maps/cNHp5a6p3e12")
+**Localização:** [São Geraldo (Zona da Mata), MG - Brasil](https://goo.gl/maps/cNHp5a6p3e12)
 
 **Telefone:** [+55 (32) 99988-2638](tel:+55(32)99988-2638)
 
