@@ -10,10 +10,8 @@
 
 **Github:** [juniorcesarabreu](https://github.com/juniorcesarabreu)
 
-
-## Sobre mim
-
-
+[//]: # (## Sobre mim)
+[//]: # (A fazer)
 
 ## Habilidades
 
