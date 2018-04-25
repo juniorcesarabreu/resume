@@ -4,6 +4,8 @@
 
 **Telefone:** [+55 (32) 99988-2638](tel:+55(32)99988-2638)
 
+**Whatsapp:** [+55 (32) 99988-2638](https://web.whatsapp.com/send?phone=5532999882638&text=Ol%C3%A1!)
+
 **E-mail:** <juniorcesarabreu@live.com>
 
 **Linkedin** [juniorcesarabreu](https://www.linkedin.com/in/juniorcesarabreu/)
